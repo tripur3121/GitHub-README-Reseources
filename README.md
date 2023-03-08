@@ -12,3 +12,7 @@ This repository contains different designs, GIFs, Images to beautify your README
 <h1> Image GIF </h1>
 
 1. <img align='left' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+2. <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
