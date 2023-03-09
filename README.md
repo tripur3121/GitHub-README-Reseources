@@ -16,3 +16,7 @@ This repository contains different designs, GIFs, Images to beautify your README
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 2. <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+3. <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
