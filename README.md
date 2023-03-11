@@ -27,8 +27,12 @@ This repository contains different designs, GIFs, Images to beautify your README
 
 3. <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-
-<!-- Footer --> 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
+<!-- Footer --> 
+<hr>
+
+<!-- Image GIFs -->
+<h1> Footer </h1>
+1.
 
 <img src="https://imgur.com/rilHVxA.png"/>
