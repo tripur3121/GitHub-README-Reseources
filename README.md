@@ -10,28 +10,12 @@ This repository contains different designs, GIFs, Images to beautify your README
 4. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="60">
 5. <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="60" /> 
 6. <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="60" >
+7. <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="60">
+8. <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60">
+9. <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="60">
+10.<img src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" width= "60">
 
-
-<hr>
-
-<!-- Image GIFs -->
-<h1> Image GIF </h1>
-
-1. <img align='left' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-2. <img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-3. <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-4. <img align= "left"  src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" width= "230"/>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 <!-- Footer --> 
 <hr>
 
