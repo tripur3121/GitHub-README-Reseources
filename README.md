@@ -28,6 +28,10 @@ This repository contains different designs, GIFs, Images to beautify your README
 3. <img align='left' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+4. <img align= "left"  src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" width= "230"/>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!-- Footer --> 
 <hr>
 
