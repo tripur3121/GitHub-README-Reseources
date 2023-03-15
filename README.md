@@ -25,6 +25,7 @@ This repository contains different designs, GIFs, Images to beautify your README
 19. <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="150">
 20. <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="150">
 21. <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="150">
+22. <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="150">
 
 
 
