@@ -47,3 +47,7 @@ This repository contains different designs, GIFs, Images to beautify your README
 1.
 
 <img src="https://imgur.com/rilHVxA.png"/>
+
+2.
+
+![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
