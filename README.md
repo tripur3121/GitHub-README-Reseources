@@ -32,6 +32,7 @@ This repository contains different designs, GIFs, Images to beautify your README
 26. <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="150"/>
 27. <img src="https://github.com/anathayna/anathayna/blob/master/assets/enthusiast.gif?raw=1" width="150"/>
 28. <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="150">
+29. ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)
 
 
 
